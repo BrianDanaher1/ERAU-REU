@@ -24,7 +24,7 @@ The majority of this project was done in Google Collab: an online Python library
 
 MATLAB Code
 
-These codes process the plaintext output of the main neural network code and organize the data into a usable format in excel.
+These codes process the outputs of the main neural network code and organize the data into a usable format in excel.
 
 1. Data Processing 1.m
     This code takes in the plaintext and outputs the accuracy, loss, validation accuracy, and validation loss in induvidual excel files.
