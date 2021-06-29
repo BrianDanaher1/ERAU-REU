@@ -1,4 +1,4 @@
-## Variable Stride Project
+# Variable Stride Project
 
 The purpose of this research is to evaluate the Variable Stride Algorithm, a subsampling algorithm, as used in convolutional neural networks. Subsampling is a common technique used in CNNS in order to both increase the training speed of the dataset, with the tradeoff of coarsening the dataset and decreasing the amount of useful information. This algorithm allows the user to section the image and determine the pooling stride, the size of the downsampling filter, in each section. My manipulating these parameters, one can isolate the portions of an image which are most important in classification and only minimally downsample these regions, while more aggressively downsizing the less important parts of the image. 
 
@@ -9,7 +9,7 @@ This experiment aims to quantify the performance of the Varibale Stride algorith
 
 
 
-# List of Programs
+## List of Programs
 
 Python Code
 
@@ -33,7 +33,7 @@ These codes process the outputs of the main neural network code and organize the
     This code takes in the excel files from Data Processing 1.m as well as the excel sheets from Main Neural Network Code.py and formats them into one excel sheet.
 
 
-# Neural Networks
+## Neural Networks
 
 The three CNN structures used in this experiment are displayed below. 
 
