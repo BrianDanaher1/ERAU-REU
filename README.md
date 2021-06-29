@@ -38,3 +38,7 @@ These codes process the outputs of the main neural network code and organize the
 The three CNN structures used in this experiment are displayed below. 
 
 ![Networks](https://github.com/BrianDanaher1/ERAU-REU/blob/main/Network%20Structures.png?raw=true)
+
+## Analysis
+
+The data analysis of this project is ongoing. Preliminary results analyzing the AUC curve suggest that the variable stride algorithm is not suited for diabetic retinopathy classification.
