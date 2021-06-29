@@ -31,6 +31,9 @@ These codes process the outputs of the main neural network code and organize the
     
 2. Data Processing 2.m
     This code takes in the excel files from Data Processing 1.m as well as the excel sheets from Main Neural Network Code.py and formats them into one excel sheet.
+    
+3. ttests.m
+    Takes in an excel sheet of data and outputs a matrix of t-tests of the columns of data in all combinations.
 
 
 ## Neural Networks
