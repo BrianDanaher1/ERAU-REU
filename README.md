@@ -37,4 +37,4 @@ These codes process the outputs of the main neural network code and organize the
 
 The three CNN structures used in this experiment are displayed below. 
 
-![Networks](https://github.com/[BrianDanaher1]/ERAU-REU/Network Structures.png?raw=true)
+![Networks](https://github.com/BrianDanaher1/ERAU-REU/blob/main/Network%20Structures.png?raw=true)
