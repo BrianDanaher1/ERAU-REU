@@ -37,4 +37,4 @@ These codes process the outputs of the main neural network code and organize the
 
 The three CNN structures used in this experiment are displayed below. 
 
-![](Network-Structures.png)
+![](Network Structures.png)
