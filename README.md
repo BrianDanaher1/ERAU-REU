@@ -33,5 +33,7 @@ These codes process the outputs of the main neural network code and organize the
     This code takes in the excel files from Data Processing 1.m as well as the excel sheets from Main Neural Network Code.py and formats them into one excel sheet.
 
 
+# Neural Networks
 
+The three CNN structures used in this experiment are displayed below. 
 
